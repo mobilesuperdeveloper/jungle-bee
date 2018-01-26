@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: fa2f20d9d8d9cf646a7299400732489a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dialog1
+    21300002: Button1
+    21300004: CloseBtn
+    21300006: BackBtn
+    21300008: checkIMG
+    21300010: Hpbar
+    21300012: PowerBar
+    21300014: common15x_0
+    21300016: common15x_1
+    21300018: common15x_2
+    21300020: common15x_3
+    21300022: common15x_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dialog1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 986
+        width: 896
+        height: 1061
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button1
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1538
+        width: 265
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloseBtn
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 579
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+    - name: BackBtn
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 197
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: checkIMG
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 376
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hpbar
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1995
+        width: 211
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PowerBar
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1334
+        width: 246
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: common15x_0
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 787
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: common15x_1
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 787
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: common15x_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 781
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: common15x_3
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 226
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: common15x_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 622
+        width: 161
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

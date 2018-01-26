@@ -1,0 +1,20 @@
+﻿
+using UnityEngine;
+using System.Collections;
+using dataread;
+using JBClasses;
+
+public class JBBecky : MonoBehaviour 
+{
+	// Use this for initialization
+	void Start () 
+	{
+		
+	}
+	
+	// Update is called once per frame
+	void Update () 
+	{
+
+	}
+}

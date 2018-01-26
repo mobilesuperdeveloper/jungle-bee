@@ -1,0 +1,2 @@
+enemy_kind 4 enemy_name1 wasp count1 5 enemy_name2 blackAnt count2 10 enemy_name3 spider1 count3 10 enemy_name4 mite count4 5
+boss_kind 1 boss_name1 mantis_king count1 1

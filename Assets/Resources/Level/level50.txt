@@ -1,0 +1,2 @@
+enemy_kind 5 enemy_name1 wasp count1 10 enemy_name2 spider1 count2 10 enemy_name3 mite count3 10 enemy_name4 redAnt enemy_name4 mantis count4 10 enemy_name5 spider2 count5 10
+boss_kind 1 boss_name1 dark_spirit count1 1
